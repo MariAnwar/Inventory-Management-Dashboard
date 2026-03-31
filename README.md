@@ -87,7 +87,8 @@ Extracts weekday names for trend analysis
 ---
 
 ## 🔷 Preview
-![Dashboard screenshot](Screenshots/Screenshot (299).png)
+<img src="Screenshots/Screenshot (299).png" alt="sc dashboard" width="500">
+
 
 ---
 
